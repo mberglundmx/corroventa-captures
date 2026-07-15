@@ -1,0 +1,28 @@
+{
+  "session_id": "YYYY-MM-DD_slug",
+  "started_at": null,
+  "operators": ["markus"],
+  "devices": [
+    { "role": "dehumidifier", "model": "CTR300TT2", "id_hint": null },
+    { "role": "controller", "model": "HomeVision Pro", "id_hint": null }
+  ],
+  "scenario": "",
+  "rf": {
+    "frequency_hz": 868000000,
+    "modulation": null,
+    "sample_rate_hz": 2048000,
+    "gain": null,
+    "antenna": null,
+    "tooling": ["rtl-sdr-blog-v4"],
+    "presets_notes": ""
+  },
+  "artifacts": {
+    "raw": [],
+    "annotated": [],
+    "replay": []
+  },
+  "open_questions": [],
+  "related_docs": [
+    "corroventa-engineering/experiments/0001-find-frequency.md"
+  ]
+}

@@ -1,0 +1,10 @@
+sessions/**/raw/**
+!sessions/**/raw/.gitkeep
+*.cu8
+*.cs8
+*.cf32
+*.iq
+*.wav
+__pycache__/
+*.pyc
+.DS_Store
